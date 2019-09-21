@@ -1,5 +1,6 @@
 # vue
-搭建vue环境，且安装element-ui
+
+## 搭建vue环境，且安装element-ui
 
 （1）安装nodejs      https://nodejs.org
 
