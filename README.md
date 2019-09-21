@@ -1,6 +1,6 @@
 # vue
 
-## 搭建vue环境，且安装element-ui
+## 搭建vue环境
 
 （1）安装nodejs      https://nodejs.org
 
@@ -38,7 +38,45 @@
 
 （8）运行:npm run dev
 
- ## 目录结构介绍
+## 安装element-ui
+
+### 1.vue init webpack 文件名
+
+### 2.除路由选NO  创建项目
+
+### 3.npm install
+
+### 4.选择性安装
+
+安装vuex npm install vuex --save
+ 
+安装router npm install vue-router --save 
+
+npm install vue-axios --save      安装vue的ajax
+
+5.npm i element-ui -S
+
+6.引入element在main.js
+
+import ElementUI from 'element-ui'
+
+import 'element-ui/lib/theme-chalk/index.css'
+
+Vue.use(ElementUI);
+
+规范css
+
+npm install style-loader --save
+
+npm install css-loader --save
+
+npm install less-loader --save
+
+npm install less --save
+
+7.启动 npm run dev
+
+## 目录结构介绍
 （1）index.html: 首页入口文件，你可以添加一些 meta 信息或统计代码。
 
 （2）package.json:项目配置文件。
