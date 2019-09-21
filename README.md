@@ -49,6 +49,8 @@
 
 （5）config:	配置目录，包括端口号等。我们初学可以使用默认的。
 
+![Image text](https://github.com/15234477664/new-vue/blob/master/img/1.png)
+
 （6）build:最终发布的代码存放位置。
 
 （7）node_modules:	npm 加载的项目依赖模块
