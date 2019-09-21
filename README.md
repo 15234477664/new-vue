@@ -54,9 +54,9 @@
 
 npm install vue-axios --save      安装vue的ajax
 
-5.npm i element-ui -S
+### 5.npm i element-ui -S
 
-6.引入element在main.js
+### 6.引入element在main.js
 
 import ElementUI from 'element-ui'
 
@@ -64,7 +64,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 
 Vue.use(ElementUI);
 
-规范css
+### 规范css
 
 npm install style-loader --save
 
@@ -74,7 +74,7 @@ npm install less-loader --save
 
 npm install less --save
 
-7.启动 npm run dev
+### 7.启动 npm run dev
 
 ## 目录结构介绍
 （1）index.html: 首页入口文件，你可以添加一些 meta 信息或统计代码。
