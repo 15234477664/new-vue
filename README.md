@@ -17,6 +17,7 @@
 方法：npm install vue-cli -g
 
 （4）基于webpack生成模板项目: vue init webpack 项目名字
+```html
 
 注：安装过程中的解释
 
@@ -37,6 +38,7 @@
 （7）安装package.json里的依赖:npm install
 
 （8）运行:npm run dev
+```
 
 ## 安装element-ui
 
