@@ -54,7 +54,7 @@
  
 安装router npm install vue-router --save 
 
-npm install vue-axios --save      安装vue的ajax
+npm install --save axios     安装vue的ajax
 
 ### 5.npm i element-ui -S
 
